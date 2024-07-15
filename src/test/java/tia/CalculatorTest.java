@@ -17,8 +17,8 @@ public class CalculatorTest {
     }
 
     @Test
-    public void testSum2() {
-        assertEquals(1, new Calculator().sum(-1, 2));
+    public void testMinus2() {
+        assertEquals(-1, new Calculator().minus(-1, 2));
     }
 
 }
