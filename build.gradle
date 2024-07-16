@@ -1,6 +1,6 @@
 plugins {
     id 'java'
-    id "com.teamscale" version "33.3.3"
+    id "com.teamscale" version "34.0.0"
 }
 
 teamscale {
